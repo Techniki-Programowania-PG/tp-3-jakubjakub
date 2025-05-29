@@ -1,0 +1,6 @@
+[submodule "scikit_build_example/extern/matplotplusplus"]
+	path = scikit_build_example/extern/matplotplusplus
+	url = https://github.com/alandefreitas/matplotplusplus
+[submodule "scikit_build_example/extern/pybind11"]
+	path = scikit_build_example/extern/pybind11
+	url = https://github.com/pybind/pybind11.git
