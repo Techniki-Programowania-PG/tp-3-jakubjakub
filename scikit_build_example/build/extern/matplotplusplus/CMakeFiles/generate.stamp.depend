@@ -1,0 +1,13 @@
+# CMake generation dependency list for this directory.
+C:/CMake/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CMakePackageConfigHelpers.cmake
+C:/CMake/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/ExternalProject/shared_internal_commands.cmake
+C:/CMake/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/FetchContent.cmake
+C:/CMake/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/GNUInstallDirs.cmake
+C:/CMake/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/WriteBasicConfigVersionFile.cmake
+D:/Pulpit/studia/projekt 3/scikit_build_example/extern/matplotplusplus/CMakeLists.txt
+D:/Pulpit/studia/projekt 3/scikit_build_example/extern/matplotplusplus/cmake/functions.cmake
+D:/Pulpit/studia/projekt 3/scikit_build_example/extern/matplotplusplus/cmake/functions/ensure_build_type.cmake
+D:/Pulpit/studia/projekt 3/scikit_build_example/extern/matplotplusplus/cmake/functions/link_external_libraries.cmake
+D:/Pulpit/studia/projekt 3/scikit_build_example/extern/matplotplusplus/cmake/functions/project_flags.cmake
+D:/Pulpit/studia/projekt 3/scikit_build_example/extern/matplotplusplus/cmake/functions/sanitizers.cmake
+D:/Pulpit/studia/projekt 3/scikit_build_example/extern/matplotplusplus/cmake/functions/target_options.cmake

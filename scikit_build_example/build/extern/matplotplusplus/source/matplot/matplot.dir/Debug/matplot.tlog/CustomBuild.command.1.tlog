@@ -1,0 +1,10 @@
+^D:\PULPIT\STUDIA\PROJEKT 3\SCIKIT_BUILD_EXAMPLE\EXTERN\MATPLOTPLUSPLUS\SOURCE\MATPLOT\CMAKELISTS.TXT
+setlocal
+C:\CMake\cmake-4.0.2-windows-x86_64\bin\cmake.exe "-SD:/Pulpit/studia/projekt 3/scikit_build_example" "-BD:/Pulpit/studia/projekt 3/scikit_build_example/build" --check-stamp-file "D:/Pulpit/studia/projekt 3/scikit_build_example/build/extern/matplotplusplus/source/matplot/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

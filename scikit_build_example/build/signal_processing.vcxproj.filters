@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Pulpit\studia\projekt 3\scikit_build_example\src\bindings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Pulpit\studia\projekt 3\scikit_build_example\src\generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Pulpit\studia\projekt 3\scikit_build_example\src\fourier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Pulpit\studia\projekt 3\scikit_build_example\src\filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Pulpit\studia\projekt 3\scikit_build_example\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A49F4979-5E2D-3629-AF8B-74EED8814FAF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

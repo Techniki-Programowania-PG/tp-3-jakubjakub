@@ -1,0 +1,13 @@
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/CMakeFiles/signal_processing.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/CMakeFiles/INSTALL.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/CMakeFiles/ALL_BUILD.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/CMakeFiles/ZERO_CHECK.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/extern/pybind11/CMakeFiles/INSTALL.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/extern/pybind11/CMakeFiles/ALL_BUILD.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/extern/matplotplusplus/CMakeFiles/INSTALL.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/extern/matplotplusplus/CMakeFiles/ALL_BUILD.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/extern/matplotplusplus/source/CMakeFiles/INSTALL.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/extern/matplotplusplus/source/3rd_party/CMakeFiles/nodesoup.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/extern/matplotplusplus/source/3rd_party/CMakeFiles/INSTALL.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/extern/matplotplusplus/source/matplot/CMakeFiles/matplot.dir
+D:/Pulpit/studia/projekt 3/scikit_build_example/build/extern/matplotplusplus/source/matplot/CMakeFiles/INSTALL.dir
